@@ -1,0 +1,24 @@
+# ninja log v5
+4	3043	6806812264744872	CMakeFiles/algorithms_pt2.dir/main.cpp.obj	ea47f4fa768612d5
+3044	4125	6806812275504664	algorithms_pt2.exe	261dd1758fbeef7c
+3	358	6806704543602803	CMakeFiles/algorithms_pt2.dir/SortingAlgorithm.cpp.obj	c16774c5ffcc9f11
+1	232	6806812874070418	build.ninja	b1bc444b85933eba
+6	501	6806841985622037	CMakeFiles/algorithms_pt2.dir/SortingAlgorithm.cpp.obj	c16774c5ffcc9f11
+3	2874	6806842009223542	CMakeFiles/algorithms_pt2.dir/main.cpp.obj	ea47f4fa768612d5
+2875	3878	6806842019302729	algorithms_pt2.exe	af173f7a74de6991
+3	361	6806846135800184	CMakeFiles/algorithms_pt2.dir/SortingAlgorithm.cpp.obj	c16774c5ffcc9f11
+362	976	6806846141901259	algorithms_pt2.exe	af173f7a74de6991
+29	498	6807186352032449	CMakeFiles/algorithms_pt2.dir/SortingAlgorithm.cpp.obj	c16774c5ffcc9f11
+499	1212	6807186359123019	algorithms_pt2.exe	af173f7a74de6991
+18	771	6807224823951292	CMakeFiles/algorithms_pt2.dir/SortingAlgorithm.cpp.obj	c16774c5ffcc9f11
+13	3962	6807224850745708	CMakeFiles/algorithms_pt2.dir/main.cpp.obj	ea47f4fa768612d5
+3963	6235	6807224877799886	algorithms_pt2.exe	af173f7a74de6991
+6	537	6807225634075141	CMakeFiles/algorithms_pt2.dir/SortingAlgorithm.cpp.obj	c16774c5ffcc9f11
+538	1730	6807225646066064	algorithms_pt2.exe	af173f7a74de6991
+4	406	6807225950978960	CMakeFiles/algorithms_pt2.dir/SortingAlgorithm.cpp.obj	c16774c5ffcc9f11
+407	1096	6807225957825192	algorithms_pt2.exe	af173f7a74de6991
+8	547	6807289215317557	CMakeFiles/algorithms_pt2.dir/SortingAlgorithm.cpp.obj	c16774c5ffcc9f11
+4	2919	6807289239009129	CMakeFiles/algorithms_pt2.dir/main.cpp.obj	ea47f4fa768612d5
+2920	3888	6807289248667926	algorithms_pt2.exe	af173f7a74de6991
+3	384	6807290666855504	CMakeFiles/algorithms_pt2.dir/SortingAlgorithm.cpp.obj	c16774c5ffcc9f11
+385	1028	6807290673251336	algorithms_pt2.exe	af173f7a74de6991
