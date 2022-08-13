@@ -1,0 +1,3 @@
+C:/Users/adeog/Documents/GitHub/C---Projects/Data/cmake-build-debug-mingw/CMakeFiles/Data.dir
+C:/Users/adeog/Documents/GitHub/C---Projects/Data/cmake-build-debug-mingw/CMakeFiles/edit_cache.dir
+C:/Users/adeog/Documents/GitHub/C---Projects/Data/cmake-build-debug-mingw/CMakeFiles/rebuild_cache.dir

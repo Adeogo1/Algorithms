@@ -1,0 +1,14 @@
+# ninja log v5
+3	616	6803694792103139	CMakeFiles/Data.dir/main.cpp.obj	eca43f7c17886139
+616	770	6803694793604506	Data.exe	35a5d5191d0bea26
+10	372	6796333524369453	CMakeFiles/Data.dir/DoublyLinkedList.cpp.obj	96e690cfa85a9687
+3	327	6796181882045458	CMakeFiles/Data.dir/LinkedList.cpp.obj	d61fc66b2451430
+16	654	6803290380531630	CMakeFiles/Data.dir/AdjacencyMatrix.cpp.obj	73178554be2de232
+6	398	6803694789941171	CMakeFiles/Data.dir/AdjacencyList.cpp.obj	f602e6c486966c36
+3	783	6796853817535544	CMakeFiles/Data.dir/Binary.cpp.obj	64ab184912941404
+8	627	6803583757726199	CMakeFiles/Data.dir/BinarySearchTree.cpp.obj	d4ea531e002d702a
+11	656	6803290380531630	CMakeFiles/Data.dir/UndirectedGraph.cpp.obj	ec9e9892c56d0b25
+6	500	6803748341637604	CMakeFiles/Data.dir/BellmanFord.cpp.obj	9cc6c38d737a64fb
+8	536	6803748341987914	CMakeFiles/Data.dir/AdjacencyList.cpp.obj	f602e6c486966c36
+3	978	6803748346411944	CMakeFiles/Data.dir/main.cpp.obj	eca43f7c17886139
+978	1255	6803748349154445	Data.exe	6917a9f76dd20570
